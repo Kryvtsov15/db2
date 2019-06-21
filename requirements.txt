@@ -2,6 +2,7 @@ certifi==2019.6.16
 chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
+dj-database-url==0.4.2
 Django==2.1.4
 django-rest-swagger==2.2.0
 djangorestframework==3.9.4
@@ -21,3 +22,4 @@ six==1.12.0
 text-unidecode==1.2
 uritemplate==3.0.0
 urllib3==1.25.3
+whitenoise==3.3.0
